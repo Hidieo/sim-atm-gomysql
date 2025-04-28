@@ -36,7 +36,7 @@ Ikuti langkah-langkah berikut untuk mengatur proyek ini di mesin lokal Anda:
     cd sim-atm-gomysql
     ```
 
-2. Impor database MySQL menggunakan file `atm_simulation.sql`.
+2. Copy teks for_database ke MySQL untuk membuat tabel accounts dan transactions.
 
 3. Atur koneksi database di file `main.go`. Sesuaikan kredensial dan pengaturan koneksi ke MySQL.
 
