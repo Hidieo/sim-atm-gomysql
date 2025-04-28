@@ -32,8 +32,8 @@ Ikuti langkah-langkah berikut untuk mengatur proyek ini di mesin lokal Anda:
 1. Clone repository ini:
 
     ```bash
-    git clone https://github.com/username/repo-ATM-simulation.git
-    cd repo-ATM-simulation
+    git clone https://github.com/Hidieo/sim-atm-gomysql.git
+    cd sim-atm-gomysql
     ```
 
 2. Impor database MySQL menggunakan file `atm_simulation.sql`.
